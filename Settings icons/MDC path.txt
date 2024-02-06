@@ -1,8 +1,0 @@
-Settings.plist file:
-
-\System\Library\PrivateFrameworks\PreferencesUI.framework\Settings.plist
-
-Settings icons folder:
-(first rename your preferred icons folder to "-")
-
-\var\mobile\-
