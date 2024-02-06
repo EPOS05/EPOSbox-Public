@@ -2,7 +2,7 @@ Notes:
 - I am not responsible for any damage you may cause to your device.
 - It is recommended to use MDC or KFD when performing this mod, this is because the changes will be reverted when performing a reboot and you will have a much lower chance of damaging your device.
 
-Installing:
+Installing: (you can skip step 2 if you are using MDC or KFD with misaka/cowabunga/purekfd etc..)
 
 1. Unzip the settings icon pack you have downloaded.
 2. Go to "\System\Library\PrivateFrameworks\PreferencesUI.framework\Settings.plist" and make a backup of the "Settings.plist" file keep it somewhere safe!
@@ -10,7 +10,7 @@ Installing:
 4. Place the provided "-" folder here: "\var\mobile\-".
 5. Respring.
 
-Uninstalling:
+Uninstalling: (you can skip step 1 if you are using MDC or KFD with misaka/cowabunga/purekfd etc..)
 
 1. Place the original "Settings.plist" file you backed up when installing your icon pack back in "\System\Library\PrivateFrameworks\PreferencesUI.framework\Settings.plist".
 2. Go to "\var\mobile" and remove the "-" folder.

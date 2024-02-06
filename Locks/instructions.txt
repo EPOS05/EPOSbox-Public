@@ -1,0 +1,18 @@
+Notes:
+- I am not responsible for any damage you may cause to your device.
+- It is recommended to use MDC or KFD when performing this mod, this is because the changes will be reverted when performing a reboot and you will have a much lower chance of damaging your device.
+
+Installing: (you can skip step 3 if you are using MDC or KFD with misaka/cowabunga/purekfd etc..)
+
+1. Download the prefered lock and the "Replacement_main_caml.zip" file.
+2. Unzip both files you have downloaded.
+3. Go to "\System\Library\PrivateFrameworks\SpringBoardUIServices.framework" and make a backup of all the "lock@[x].ca" folders you see, keep it somewhere safe!
+4. Replace the original system "lock@[x].ca" folders with the ones provided in the unzipped "Replacement_main_caml.zip" file.
+5. Place the provided "Lock" folder here: "\var\mobile\Documents\Lock".
+6. Respring.
+
+Uninstalling: (you can skip step 1 if you are using MDC or KFD with misaka/cowabunga/purekfd etc..)
+
+1. Place all the original "lock@[x].ca" folders you backed up when installing your lock back in "\System\Library\PrivateFrameworks\SpringBoardUIServices.framework".
+2. Go to "\var\mobile\Documents" and remove the "Lock" folder.
+3. Respring.
